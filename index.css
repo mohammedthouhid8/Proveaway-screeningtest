@@ -1,0 +1,53 @@
+.container {
+    width: 400px;
+}
+
+.title {
+    text-align: center;
+}
+
+.form {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.items {
+    display: flex;
+    /* border: 2px solid black; */
+    width: 400px;
+    /* justify-content: space-between; */
+}
+
+
+
+.lists {
+    list-style-type: none;
+}
+
+.discount {
+    padding-left: 150px;
+}
+
+.table {
+    padding-left: 15px;
+    display: none;
+}
+
+.selectBox {
+    width: 100px;
+    height: 30px;
+
+}
+
+.total {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    width: 100%;
+    background-color: green;
+    height: 30px;
+    color: aliceblue;
+    font-weight: bold;
+}
